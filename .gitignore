@@ -58,3 +58,12 @@ VSWorkspaceState.json
 # Visual Studio workspace
 breastscan/
 android/app/google-services.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Python virtual environments
+env/
+venv/
+.venv/
