@@ -1,14 +1,5 @@
 # BreastScan
 
-BreastScan is an AI-powered mobile application developed with Flutter and FastAPI for mammography image analysis.
-
-The application allows users to upload mammography images and related metadata, sends the data to a FastAPI backend, and generates analysis results using a PyTorch-based deep learning model.# BreastScan
-
-BreastScan is an AI-powered mobile application developed with Flutter and FastAPI for mammography image analysis.
-
-The application allows users to upload mammography images and related metadata, sends the data to a FastAPI backend, and generates analysis results using a PyTorch-based deep learning model.
-# BreastScan
-
 <p align="center">
   <img src="screenshots/breastscan-cover.jpg" alt="BreastScan Cover" width="100%">
 </p>
@@ -26,4 +17,4 @@ The application allows users to upload mammography images and related metadata, 
 
 BreastScan is an AI-powered mobile application developed with Flutter and FastAPI for mammography image analysis.
 
-The application allows users to upload mammography images and related metadata, sends the data to a FastAPI backend, and generates model-based analysis results using a PyTorch deep learning model.
+The application allows users to upload mammography images and related metadata, sends the data to a FastAPI backend, and generates model-based analysis results using a PyTorch-based deep learning model.
